@@ -48,9 +48,9 @@
           justify-center
         "
       >
-        <NuxtLink to="" class="mr-5 hover:text-white">Home</NuxtLink>
-        <NuxtLink to="" class="mr-5 hover:text-white">Paystack Products</NuxtLink>
-        <NuxtLink to="" class="mr-5 hover:text-white">Stripe Products</NuxtLink>
+        <NuxtLink to="/" class="mr-5 hover:text-white">Home</NuxtLink>
+        <NuxtLink to="/paystackproductslist" class="mr-5 hover:text-white">Paystack Products</NuxtLink>
+        <NuxtLink to="/stripeproductlist" class="mr-5 hover:text-white">Stripe Products</NuxtLink>
         
       </nav>
     

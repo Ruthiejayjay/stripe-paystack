@@ -34,12 +34,11 @@
           <h2
             class="my-10 text-5xl lg:text-6xl font-bold font-heading text-white"
           >
-            The quick brown fox jumps over the lazy dog.
+            Payment Gateways
           </h2>
           <div class="max-w-md mx-auto">
             <p class="mb-20 text-lg text-gray-200">
-              A short message that will bring your customers into the world of
-              your imagination.
+             Test Two Payment Gateways for adding a product and view all products
             </p>
             <NuxtLink
               class="
